@@ -32,7 +32,7 @@ you've written it.
 If we'd left the summary out, the entire article would be shown on the
 home page (or on any category pages on which it had been included). This
 is the approach that Tumblr takes; all recent posts are displayed on the
-same page.
+same 
 
 ## Set more metadata
 
