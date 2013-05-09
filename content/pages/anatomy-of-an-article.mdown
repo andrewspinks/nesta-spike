@@ -19,6 +19,8 @@ sure that you separate the meta data from the content with a blank line.
 
 ## Set Summary to a brief overview (optional)
 
+Changes.
+
 If you've just clicked through here from the home page (or the [mark
 up](/marking-up-pages) page) you may have noticed that this article was
 summarised on that page, using an opening paragraph that is very
